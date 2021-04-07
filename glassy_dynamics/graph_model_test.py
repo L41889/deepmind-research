@@ -18,7 +18,7 @@ import itertools
 from absl.testing import parameterized
 
 from graph_nets import graphs
-import numpy as np
+import numpy as np 
 import tensorflow.compat.v1 as tf
 
 from glassy_dynamics import graph_model
